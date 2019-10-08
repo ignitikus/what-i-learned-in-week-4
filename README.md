@@ -22,8 +22,13 @@ These statements are used to create conditions.
     }
 
 In the example above we are passing 'num' and checking if it is a number using operator !isNaN (not not a number). And if passed value is `true` we return "That's a number!" and if it's `false` value will be checked by the next `if` statement. If the value doesn't return `true` to any `if` statement, `else` will be used.
-## *Ternary*
 
+## *Ternary*
+The operator that takes 3 arguments at the same time. Can be used as a replacement for a simple if/else statement.
+
+    result = !isNaN(x)  ? 'Yes' : 'No';
+
+First argument is a condition. Second argument is the result if passed value returns true. Third argument is the result if passed value returns false. 
 ## *Projects*
 ### Fizzy
 
