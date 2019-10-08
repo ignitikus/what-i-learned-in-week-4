@@ -29,9 +29,9 @@ The operator that takes 3 arguments at the same time. Can be used as a replaceme
     result = !isNaN(x)  ? 'Yes' : 'No';
 
 First argument is a condition. Second argument is the result if passed value returns true. Third argument is the result if passed value returns false. 
-## *Projects*
-### Fizzy
 
-### Iffy Project
+## *Iffy Project*
+I chose to make a bill splitting node app. 
+The project that seemed to be easy to make introduced interesting challenges. I had to figure out why the user input wasn't calculated. Turns out that any input turns into a string. I've used `parseFloat` to change input to decimal value. 
 
 ## *Human Resource Machine*
