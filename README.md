@@ -35,3 +35,9 @@ I chose to make a bill splitting node app.
 The project that seemed to be easy to make introduced interesting challenges. I had to figure out why the user input wasn't calculated. Turns out that any input turns into a string. I've used `parseFloat` to change input to decimal value. 
 
 ## *Human Resource Machine*
+During week 4 we completed following levels:
+
+    Level 19 - Countdown 
+    Level 20 - Multiplication Workshop 
+    Level 21 - Zero terminated Sum 
+    Level 23 - The Littles Number 
